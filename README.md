@@ -94,7 +94,7 @@ Una vez ejecutada la función setup(), se entra en un bucle infinito while(1) qu
 En cuanto a la LCD se posiciona el cursor en la primera línea y escribe el valor de la temperatura, también, se posiciona el cursor en la segunda línea y se escribe el título del estado del ventilador.
 
 Si la temperatura es mayor a 30 °C y el sensor PIR detecta movimiento, el ventilador se activa (RB2 = 1). En caso contrario, se apaga.
-Se muestra el estado actual del ventilador en la pantalla (ON u OFF)
+Se muestra el estado actual del ventilador en la pantalla (ON u OFF).
 
 #### En el [video](/Imagenes/Funcionamiento.mp4) se puede evidenciar el funcionamiento del proyecto.
 
